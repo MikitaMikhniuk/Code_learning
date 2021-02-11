@@ -1,2 +1,2 @@
-# Python_learning
-Personal repository for learning Python
+# Code Learning
+Personal repository for learning code
