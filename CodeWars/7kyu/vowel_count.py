@@ -15,4 +15,3 @@ def get_count(input_str):
     return num_vowels
 
 print(get_count('Hello'))
-
